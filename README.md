@@ -1,2 +1,4 @@
 # lucycosmetic
 mỹ phẩm
+,.mk
+,,.
